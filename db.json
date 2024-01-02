@@ -16,5 +16,18 @@
   "profile": {
     "name": "typicode"
   },
-  "employee": []
+  "employee": [
+    {
+      "firstName": "Shailendra ",
+      "lastName": "Jain",
+      "email": "shailendra@gmail.com",
+      "dob": "1994-04-08T04:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Java R&D",
+      "experience": 3,
+      "package": 5,
+      "id": 1
+    }
+  ]
 }
