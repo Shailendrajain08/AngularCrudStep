@@ -20,14 +20,50 @@
     {
       "firstName": "Shailendra ",
       "lastName": "Jain",
-      "email": "shailendra@gmail.com",
-      "dob": "1994-04-08T04:00:00.000Z",
+      "email": "shailendra.jain0894@gmail.com",
+      "dob": "1994-12-28T05:00:00.000Z",
       "gender": "male",
       "education": "Graduate",
-      "company": "Java R&D",
-      "experience": 3,
+      "company": "Java R&D Ventures",
+      "experience": 2,
       "package": 5,
       "id": 1
+    },
+    {
+      "firstName": "Tarun",
+      "lastName": "Vanshkar",
+      "email": "tarun@gmail.com",
+      "dob": "1999-09-15T04:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Java R&D Ventures",
+      "experience": 1,
+      "package": 3.6,
+      "id": 2
+    },
+    {
+      "firstName": "Lord ",
+      "lastName": "Voldemort",
+      "email": "whoMustNotBeNamed@gmail.com",
+      "dob": "1926-12-31T05:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Lord of Death Eaters",
+      "experience": 40,
+      "package": 225,
+      "id": 3
+    },
+    {
+      "firstName": "Albus ",
+      "lastName": "Dumbledore",
+      "email": "dumbledore@gmail.com",
+      "dob": "1881-08-31T04:56:02.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Hogwarts",
+      "experience": 80,
+      "package": 500,
+      "id": 4
     }
   ]
 }
